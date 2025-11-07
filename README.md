@@ -4,6 +4,8 @@ Here you will find a detailed list of the MEDIATION data that are available so f
 
 ## PC3-simulations
 
+- [SWAG (Penven et al.)](PC3-simulations/SWAG-2025.md)
+
 ## PC3-observations
 
 ## PC3-tools
